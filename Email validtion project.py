@@ -17,8 +17,9 @@ if len(email)>= 6:
                    else:
                        d=1
                if k == 1 or j == 1 or d == 1:
-                   print("Wroung Email 5...")       
-                      
+                   print("Wroung Email 5...") 
+               else:
+                   print("Right Email")            
            else:
                print("Wroung Email 4..")
        else:
